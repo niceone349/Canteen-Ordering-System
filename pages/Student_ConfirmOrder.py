@@ -196,7 +196,7 @@ if os.path.exists("payments.txt"):
                 qr_payments[values[0]] = values[1]
 
 if store_name in qr_payments and os.path.exists(qr_payments[store_name]):
-    st.image(qr_payments[store_name], width=350, )
+    st.image(get_base64_image(qr_payments[store_name]), width=350, )
     st.markdown(
     "<p style='color: grey;'>Scan this QR to pay</p>",
     unsafe_allow_html=True
