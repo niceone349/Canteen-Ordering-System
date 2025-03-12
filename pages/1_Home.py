@@ -55,7 +55,7 @@ div[data-testid="stExpander"] {{
     border-radius: 10px !important;
 }}
 
-label, input,h1, textarea, select{{
+label, input,h1, textarea, sidebar, select{{
     color: white !important;
 }}
 div[data-testid="stTextInput"] input {{
