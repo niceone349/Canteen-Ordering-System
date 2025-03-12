@@ -11,3 +11,4 @@ julies,pass,Julie's Bakeshop,admin
 2023100354,pass,Martin L. Quing,student
 2023104358,pass123,Gabriel Troy C. Alfonso,student
 2021135916,pass,Gabriel Cayden P. Chan,student
+2023107650,pass,Hans Patrick N. Alam,student
