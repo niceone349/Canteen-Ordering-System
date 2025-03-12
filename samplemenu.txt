@@ -1,0 +1,230 @@
+Julie's Bakeshop,Violet Cream Loaf,Intricate violet and white braided loaf topped with sweet creamy icing and grated cheese.,22 php,49,Available
+Julie's Bakeshop,Choco German,With a creamy choco filling and topped with a sugary-margarine topping to complete the taste.,13 php,0,Out of stock
+Julie's Bakeshop,Cinnamon Bun,Bread Bun filled with sugar and cinnamon which provide a robust and sweet flavor topped with glazed icing.,13 php,10,Available
+Julie's Bakeshop,Ensaymada Cheese,Twirl bread with rich golden brown crust and yellowish crumb with an intense butter note and topped with sugar.,22 php,10,Available
+Julie's Bakeshop,Ube Cheese de Sal,Soft and fluffy bread roll infused with rich ube (purple yam) flavor filled with creamy melted cheese. This sweet-savory pastry offers a delightful balance of earthy sweetness and salty indulgence making it a perfect treat for any time of the day.,13 php,10,Available
+Julie's Bakeshop,Pandesal,This traditional "Pinoy" bread is considered as an all-time favorite. It is made bigger and fuller with just the right combination of sweet-fermented taste and coated with freshly prepared bread crumbs. A typical bread ideal for breakfast.,6 php,10,Available
+Julie's Bakeshop,Everlasting,A lean type of bread with six cuts on the surface forming a flower-like appearance and topped with refined sugar.,13 php,10,Available
+Julie's Bakeshop,Chicken Meat Roll,Round bread coated with breadcrumbs filled with chicken strips. It has a sweet and sour filling taste profile.,20 php,10,Available
+Julie's Bakeshop,Pan de coco,The traditional afternoon sweet delight made from grated coco then cooked to a sugar concoction locally known as "bukayo" makes this bread unique and truly Pinoy. It has a distinct gritty mouthfeel imparted by the grated coco.,13 php,10,Available
+Julie's Bakeshop,Spanish Bread,A crescent-shaped roll that is soft with a sweet-creamy moist and rich mixture of filling and coated with bread crumbs.,13 php,10,Available
+Julie's Bakeshop,Choco Pandesal,Choco Pandesal is a delicious twist on the classic Filipino bread roll featuring a soft fluffy texture with a rich chocolate flavor. Perfectly balanced between sweet and slightly savory it's an irresistible treat for breakfast or snacks!,13 php,10,Available
+Julie's Bakeshop,Hopia,Hopia is a popular Filipino pastry with a flaky crust and a sweet flavorful filling typically made with mung bean (monggo) ube or pork floss. This bite-sized treat is perfect for snacking and pairs well with coffee or tea!,10 php,10,Available
+Julie's Bakeshop,Fig pie,Fig pie is a delightful dessert featuring a buttery flaky crust filled with a rich sweet fig filling. Its natural caramel-like sweetness and chewy texture make it a comforting treat perfect for any occasion!,13 php,10,Available
+Julie's Bakeshop,Ensaymada Mongo,Ensaymada mongo is a soft sweet bread topped with butter and sugar filled with smooth mung bean paste. This fluffy and rich pastry is perfect for breakfast or an afternoon snack,22 php,10,Available
+Julie's Bakeshop,Ube bar,Ube bar is a soft moist bread coated with a sweet buttery ube glaze. Its vibrant purple color and rich ube flavor make it a delicious treat for any time of the day,22 php,10,Available
+Julie's Bakeshop,Chocolate Crinkles,Chocolate crinkles are soft fudgy cookies with a crackly powdered sugar coating. Their rich chocolate flavor and chewy texture make them a perfect indulgent treat,13 php,10,Available
+Julie's Bakeshop,Binangkal,Binangkal is a crunchy deep-fried bread coated with sesame seeds. Its golden crisp exterior and soft slightly sweet inside make it a satisfying snack best enjoyed with coffee or tea,13 php,10,Available
+Chef Bab's,Crispy Pork,Crispy pork is a flavorful dish with golden crunchy skin and tender juicy meat. Its rich savory taste makes it a perfect pairing with rice or dipping sauces,85 php,10,Available
+Chef Bab's,Pork Dinakdakan,Pork dinakdakan is a creamy savory Ilocano dish made with grilled pork parts mixed with onions chilies and a tangy calamansi-infused dressing. Its rich smoky flavor and creamy texture make it a bold and delicious dish,85 php,10,Available
+Chef Bab's,Chicken,Chicken is a versatile dish that can be fried grilled or stewed to bring out its juicy tender meat and rich savory flavor. It pairs perfectly with rice sauces or vegetables for a satisfying meal,85 php,10,Available
+Chef Bab's,Beef,Beef is a hearty flavorful meat that can be grilled stewed or stir-fried to bring out its rich tender texture. It pairs well with rice vegetables or sauces for a delicious and satisfying meal,90 php,10,Available
+Chef Bab's,Bangus,A flavorful take on sisig using crispy flaked bangus mixed with onions and chilies for a light yet savory dish.,90 php,10,Available
+Chef Bab's,Bacon,A rich and smoky sisig variation made with crispy bacon bits tossed in a creamy savory sauce.,90 php,10,Available
+Chef Bab's,Gambas,A spicy seafood twist on sisig featuring plump shrimp sauted in garlic and chilies for a bold kick.,103 php,10,Available
+Chef Bab's,Spam,A unique take on sisig with crispy diced Spam mixed with onions and a tangy savory dressing.,90 php,10,Available
+Chef Bab's,Mushroom,A hearty vegetarian option with sauted mushrooms offering a meaty texture and deep umami flavor.,80 php,10,Available
+Chef Bab's,Tofu,A light and protein-packed sisig made with crispy tofu cubes mixed with onions chilies and a flavorful sauce.,80 php,10,Available
+Chef Bab's,Adobo Longganisa,A sweet garlicky and smoky sisig featuring crumbled longganisa infused with rich adobo flavors.,85 php,10,Available
+Chef Bab's,Pusit,A seafood-inspired sisig with tender grilled squid mixed with onions and a tangy spicy dressing.,103 php,10,Available
+Angel's Pizza,Whole Box-Creamy Spinach Dip,A rich and creamy spinach dip topped with gooey cheese making every bite indulgent and flavorful.,715 php,10,Available
+Angel's Pizza,Whole Box-Angel's Pepperoni,Classic pepperoni pizza with a generous layer of mozzarella cheese and zesty tomato sauce.,665 php,10,Available
+Angel's Pizza,Whole Box-Chicken Aloha,A delightful combination of tender chicken sweet pineapple and creamy cheese.,715 php,10,Available
+Angel's Pizza,Whole Box-Angel's Aloha,A tropical-inspired pizza with ham pineapple and a blend of melted cheeses.,620 php,10,Available
+Angel's Pizza,Whole Box-Toppings So Bongga!,A fully loaded pizza packed with a variety of flavorful toppings for an ultimate experience.,715 php,10,Available
+Angel's Pizza,Whole Box-Halleluia Mozzarella,A cheese lover’s dream featuring layers of gooey mozzarella on a perfectly baked crust.,715 php,10,Available
+Angel's Pizza,Whole Box-Cheesy Burger,A unique twist combining the flavors of a classic cheeseburger with a delicious pizza base.,665 php,10,Available
+Angel's Pizza,Whole Box-All Meat,An irresistible meat-lover’s pizza loaded with pepperoni ham bacon and beef.,665 php,10,Available
+Angel's Pizza,Whole Box-Creamy Garlic & 5 Cheese,A heavenly blend of five cheeses with a rich and savory garlic cream sauce.,665 php,10,Available
+Angel's Pizza,Pizza Slice-Creamy Spinach Dip,A single slice of creamy spinach dip pizza rich in flavor with a cheesy finish.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Angel's Pepperoni,A classic slice of pepperoni pizza with a crispy crust and gooey cheese.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Chicken Aloha,A single slice featuring tender chicken pineapple and melted cheese.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Angel's Aloha,A tropical-flavored slice with ham pineapple and a cheesy blend.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Toppings So Bongga!,A fully loaded slice packed with a variety of fresh and savory toppings.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Halleluia Mozzarella,A single slice of mozzarella-filled goodness for cheese enthusiasts.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Cheesy Burger,A burger-inspired pizza slice featuring a cheesy and meaty flavor.,60 php,80,Available
+Angel's Pizza,Pizza Slice-All Meat,A meat lover’s dream slice with a mix of flavorful meats on a crispy crust.,60 php,80,Available
+Angel's Pizza,Pizza Slice-Creamy Garlic & 5 Cheese,A garlic-infused five-cheese blend pizza slice for ultimate cheesy satisfaction.,60 php,80,Available
+Angel's Pizza,Classic Spaghetti,A comforting pasta dish with a rich meaty tomato sauce topped with cheese.,120 php,20,Available
+Angel's Pizza,Carbonara,A creamy and savory white sauce pasta with bacon and parmesan cheese.,120 php,20,Available
+Angel's Pizza,Mac & Cheese,Classic macaroni pasta coated in a creamy cheesy sauce for ultimate comfort.,145 php,20,Available
+Angel's Pizza,Cheesy Lasagna,Layered pasta baked with a rich meat sauce creamy cheese and béchamel.,165 php,20,Available
+Nescafe,Cone Ice Cream,A classic soft-serve ice cream served in a crispy cone for a quick sweet treat.,15 php,150,Available
+Nescafe,Cup Ice Cream,A creamy and refreshing ice cream served in a convenient cup perfect for on-the-go.,25 php,150,Available
+Nescafe,1 Topping Ice Cream,A smooth and delicious ice cream topped with your choice of a single flavorful topping.,30 php,150,Available
+Nescafe,3 Toppings Ice Cream,A delightful ice cream treat with three tasty toppings for extra indulgence.,40 php,150,Available
+Nescafe,Milo Freeze Plain 12 oz.,A refreshing and chocolatey Milo Freeze blended to perfection in a 12 oz. cup.,40 php,100,Available
+Nescafe,Milo Freeze Plain 16 oz.,A rich and icy Milo Freeze served in a 16 oz. cup for an extra satisfying treat.,50 php,100,Available
+Nescafe,Milo Freeze Plain 22 oz.,A large and creamy 22 oz. Milo Freeze perfect for chocolate lovers.,70 php,100,Available
+Nescafe,Nescafe Freeze Plain 12 oz.,A smooth and creamy coffee-based Nescafe Freeze served in a 12 oz. cup.,40 php,100,Available
+Nescafe,Nescafe Freeze Plain 16 oz.,A refreshing Nescafe Freeze in a 16 oz. cup blending rich coffee and icy goodness.,50 php,100,Available
+Nescafe,Nescafe Freeze Plain 22 oz.,A large 22 oz. Nescafe Freeze packed with bold coffee flavor and creamy texture.,70 php,100,Available
+Whimsy Whisk,Ottogi Real Cheese,Creamy and rich cheese ramen with a smooth and savory flavor,120 php,10,Available
+Whimsy Whisk,Jin Kimchi Ramen,Tangy and spicy kimchi-infused broth with chewy noodles,95 php,10,Available
+Whimsy Whisk,Jin Ramen Spicy,Hot and flavorful ramen with a bold spicy kick,95 php,10,Available
+Whimsy Whisk,Jin Ramen Mild,Smooth and mildly spiced broth with soft chewy noodles,95 php,10,Available
+Whimsy Whisk,Paldo JJajameon,Thick and chewy noodles coated in rich black bean sauce,160 php,10,Available
+Whimsy Whisk,Crab Ramen,Savory crab-flavored broth with a deep umami taste,110 php,10,Available
+Whimsy Whisk,Bodle Cheese Stir Fry,Creamy cheese sauce mixed with stir-fried ramen noodles,110 php,10,Available
+Whimsy Whisk,Jin Snack Ramen,Light and flavorful ramen perfect for a quick snack,95 php,10,Available
+Whimsy Whisk,Jin yeul Ramen,Extra spicy Jin Ramen with a deep and bold heat,125 php,10,Available
+Whimsy Whisk,Jin JJambong,Spicy seafood-flavored ramen with a rich smoky broth,140 php,10,Available
+Whimsy Whisk,Jin Sesame Ramen,Nutty and aromatic ramen with toasted sesame flavor,110 php,10,Available
+Whimsy Whisk,Paldo Bibimyeon,Cold and chewy noodles in a sweet and spicy sauce,130 php,10,Available
+Whimsy Whisk,Black Shin Ramyun,Premium version of Shin Ramyun with richer beef broth,145 php,10,Available
+Whimsy Whisk,Shin Ramyun,Classic spicy beef ramen with a deep umami broth,105 php,10,Available
+Whimsy Whisk,Spicy Beef Soup,Bold and hearty beef soup with a fiery kick,120 php,10,Available
+Whimsy Whisk,Beef Sari Gomtang,Light and milky beef bone soup with tender noodles,120 php,10,Available
+Whimsy Whisk,Soon Veggie,Vegetable-based ramen with a mild and comforting taste,120 php,10,Available
+Whimsy Whisk,Neoguri Ramen,Thick and chewy noodles in a rich seafood broth,120 php,10,Available
+Whimsy Whisk,Nongshim Chapagetti,Black bean ramen with a slightly sweet and savory taste,120 php,10,Available
+Whimsy Whisk,Chapagetti Spicy,Spicy version of Chapagetti with a bold kick,130 php,10,Available
+Whimsy Whisk,Beef Bulgogi,Savory and slightly sweet beef bulgogi-flavored ramen,110 php,10,Available
+Whimsy Whisk,Black Bean Stir Fry,Rich black bean sauce stir-fried with thick noodles,150 php,10,Available
+Whimsy Whisk,Anchovy Ramen,Deep umami anchovy broth with a light and savory taste,120 php,10,Available
+Whimsy Whisk,Samyang Ramen,Classic Samyang ramen with a balanced spicy flavor,95 php,10,Available
+Whimsy Whisk,Buldak Cheese,Creamy cheese blended with fiery buldak spice,125 php,10,Available
+Whimsy Whisk,Buldak Carbonara,Spicy carbonara-style ramen with a creamy finish,125 php,10,Available
+Whimsy Whisk,Buldak Original,Signature ultra-spicy ramen with bold flavors,135 php,10,Available
+Whimsy Whisk,Buldak x2,Extra spicy version of Buldak for intense heat lovers,135 php,10,Available
+Whimsy Whisk,Buldak Quattro,Four-cheese blend mixed with Buldak’s fiery spice,135 php,10,Available
+Whimsy Whisk,Buldak Creamy Carbonara,Spicy and creamy carbonara ramen with a smooth texture,135 php,10,Available
+Whimsy Whisk,Buldak 3x Spicy,Triple the heat of original Buldak for extreme spice,135 php,10,Available
+Whimsy Whisk,Buldak Rose,Creamy tomato-based Buldak with a slightly sweet kick,135 php,10,Available
+Whimsy Whisk,Buldak Jjang,Black bean-style Buldak with a smoky and spicy twist,135 php,10,Available
+Whimsy Whisk,Buldak Yakisoba,Savory stir-fried style Buldak with rich sauce,135 php,10,Available
+Jamaican Patty,Chicken Stew,Flaky golden crust filled with tender chicken slow-cooked in rich flavorful stew,75 php,10,Available
+Jamaican Patty,Beefy Tomato,Savory ground beef simmered in a tasty tomato sauce wrapped in a crisp pastry shell,75 php,10,Available
+Jamaican Patty,Cheesy Beefy Tomato,Juicy beef in zesty tomato sauce with creamy melted cheese inside a crisp pastry,75 php,10,Available
+Jamaican Patty,Beefy Mushroom,Hearty beef and mushrooms cooked in a rich sauce packed inside a golden flaky crust,75 php,10,Available
+Jamaican Patty,Beef Pinatubo,Spicy beef filling bursting with heat and flavor sealed in a crisp golden pastry,75 php,10,Available
+Jamaican Patty,Spicy Tuna,Flaky tuna blended with bold spices wrapped in a light crisp crust for a fiery kick,75 php,10,Available
+Jamaican Patty,Cheesy Tuna,Tuna chunks mixed with creamy cheese inside a crisp flaky crust for a delicious bite,75 php,10,Available
+Jamaican Patty,De Original Beef,Classic seasoned beef filling inside a golden flaky pastry for an authentic taste,75 php,10,Available
+Jamaican Patty,Cheesy Beef Pinatubo,Spicy beef packed with melted cheese inside a crispy golden shell,75 php,10,Available
+Jamaican Patty,Cheesy Beef,Juicy beef blended with melted cheese inside a crispy flaky pastry shell,75 php,10,Available
+Belgian Waffles,Plain Waffle,A simple and classic waffle with a crispy golden texture,40 php,50,Available
+Belgian Waffles,Chocolate Waffle,A rich and indulgent chocolate-flavored waffle,55 php,45,Available
+Belgian Waffles,Cheese Spread Waffle,A waffle topped with creamy and savory cheese spread,55 php,40,Available
+Belgian Waffles,Peanut Butter Waffle,A delightful waffle spread with smooth peanut butter,55 php,35,Available
+Belgian Waffles,Caramel Waffle,A sweet and buttery caramel-flavored waffle,55 php,30,Available
+Belgian Waffles,Strawberry Waffle,A waffle topped with sweet and tangy strawberry filling,60 php,25,Available
+Belgian Waffles,Blueberry Waffle,A waffle with a delicious blueberry topping,60 php,20,Available
+Belgian Waffles,Custard Waffle,A soft and creamy custard-filled waffle,60 php,18,Available
+Belgian Waffles,Mango Peach Waffle,A tropical delight with mango and peach toppings,60 php,15,Available
+Belgian Waffles,Hazelnut Waffle,A rich and nutty hazelnut-flavored waffle,65 php,12,Available
+Belgian Waffles,Cream Cheese Waffle,A waffle topped with smooth and tangy cream cheese,65 php,10,Available
+Belgian Waffles,French Butter Maple Waffle,A classic waffle with French butter and maple syrup,60 php,30,Available
+Belgian Waffles,French Butter Caramel Waffle,A waffle with French butter and sweet caramel,65 php,28,Available
+Belgian Waffles,Banana Chocolate Waffle,A waffle layered with banana slices and chocolate drizzle,65 php,25,Available
+Belgian Waffles,Banana Caramel Waffle,A delicious waffle with banana and caramel topping,65 php,22,Available
+Belgian Waffles,Choco Peanut Butter Waffle,A combination of chocolate and peanut butter in one waffle,70 php,18,Available
+Belgian Waffles,Chocolate Custard Waffle,A waffle filled with creamy custard and chocolate drizzle,70 php,15,Available
+Belgian Waffles,Cookies & Cream Waffle,A delightful waffle with crushed cookies and cream,70 php,12,Available
+Belgian Waffles,Blueberry Banana Waffle,A fruity waffle with blueberry and banana toppings,70 php,10,Available
+Belgian Waffles,Strawberry Banana Waffle,A waffle with fresh strawberry and banana slices,70 php,8,Available
+Belgian Waffles,Chocolate Hazelnut Waffle,A waffle filled with chocolate and rich hazelnut spread,80 php,5,Available
+Belgian Waffles,Brownie Fudge Waffle,A waffle with a dense and fudgy brownie topping,60 php,18,Available
+Belgian Waffles,Brownie Custard Waffle,A waffle with a combination of brownie and custard,70 php,15,Available
+Belgian Waffles,Brownie Fudge Banana Waffle,A waffle topped with brownie and banana slices,70 php,12,Available
+Belgian Waffles,Brownie Cream Cheese Waffle,A rich waffle with brownie and cream cheese topping,70 php,10,Available
+Belgian Waffles,S'mores Waffle,A waffle with melted marshmallow chocolate and graham crackers,85 php,5,Available
+Belgian Waffles,Hot Coffee,A warm and aromatic brewed coffee,65 php,30,Available
+Belgian Waffles,Iced Coffee,A refreshing cold coffee served over ice,75 php,28,Available
+Belgian Waffles,Hot Chocolate,A rich and creamy hot chocolate drink,65 php,25,Available
+Belgian Waffles,Iced Chocolate,A chilled chocolate drink with a smooth and creamy taste,75 php,20,Available
+Belgian Waffles,Iced Tea,A classic and refreshing iced tea beverage,60 php,35,Available
+Paotsin,Fried Shark's Fin,Crispy fried dumplings filled with flavorful shark's fin mixture served with a special dipping sauce,60 php,50,Available
+Paotsin,Fried Shrimp Wanton,Golden fried wanton with a juicy shrimp filling offering a crunchy bite with every piece,60 php,45,Available
+Paotsin,Fried Crab Wanton,Crispy dumpling filled with a rich crab mixture perfect for seafood lovers,60 php,40,Available
+Paotsin,Fried Squid Wanton,Crunchy wanton pockets stuffed with seasoned squid deep-fried to perfection,60 php,35,Available
+Paotsin,Fried Pork Dumpling,Savory dumplings filled with juicy pork fried until golden brown and crispy,60 php,30,Available
+Paotsin,Fried Wanton,Classic fried wantons crispy and delicious best paired with Paotsin's signature sauces,60 php,25,Available
+Paotsin,Fried Scallop Wanton,Delicate scallop filling wrapped in a crispy wanton shell bursting with seafood goodness,60 php,20,Available
+Paotsin,Fried Beef Wanton,Tender beef encased in a crispy wanton wrapper deep-fried to a satisfying crunch,60 php,18,Available
+Paotsin,Fried Prawn Puff,Crunchy golden puff filled with fresh prawn offering a delightful texture and taste,60 php,15,Available
+Paotsin,Fried Pot Sticker,Pan-fried dumplings with a juicy meat filling boasting a crispy bottom and soft top,60 php,12,Available
+Paotsin,Fried Scallop Dumpling,Crispy fried dumplings packed with scallop goodness served with a tangy sauce,60 php,10,Available
+Paotsin,Fried Beijing Chicken Dumpling,Classic Beijing-style chicken dumplings deep-fried for a crunchy texture,60 php,8,Available
+Paotsin,Fried Spicy Fish,Spicy and crispy fish fillets served as a flavorful snack or meal,60 php,5,Available
+Paotsin,Steamed Shark's Fin,Steamed dumplings filled with a rich shark's fin mixture soft and flavorful,60 php,40,Available
+Paotsin,Steamed Wanton,Tender steamed wantons filled with meat and spices served in a light broth,60 php,35,Available
+Paotsin,Steamed Scallop Wanton,Steamed dumplings packed with fresh scallops offering a soft and delicate taste,60 php,30,Available
+Paotsin,Steamed Shrimp Wanton,Juicy shrimp wantons steamed to perfection bringing out their natural sweetness,60 php,25,Available
+Paotsin,Steamed Crab Wanton,Steamed dumplings filled with flavorful crab meat a delight for seafood lovers,60 php,20,Available
+Paotsin,Steamed Squid Wanton,Tender squid wrapped in a soft dumpling skin steamed for a light and fresh taste,60 php,18,Available
+Paotsin,Steamed Beef Wanton,Juicy beef-filled dumplings steamed for a tender bite and rich flavor,60 php,15,Available
+Paotsin,Steamed Spicy Fish,Steamed fish fillet with a spicy kick perfect for those who love bold flavors,60 php,12,Available
+Paotsin,Dumplings with Hainanese Rice,A hearty meal of dumplings paired with fragrant Hainanese-style rice,85 php,25,Available
+Paotsin,Dumplings with Lemak Rice,Savory dumplings served with rich and coconut-infused Lemak rice,85 php,22,Available
+Paotsin,Asian Chicken with Hainanese or Lemak Rice,Tender Asian-style chicken served with your choice of Hainanese or Lemak rice,170 php,18,Available
+Paotsin,Crackling Pork with Hainanese or Lemak Rice,Crispy and flavorful crackling pork paired with fragrant rice options,180 php,15,Available
+Paotsin,Crispy Porkchop with Hainanese or Lemak Rice,Golden fried porkchop served with Hainanese or Lemak rice for a satisfying meal,210 php,10,Available
+Paotsin,Steamed Dumplings with Laksa,A flavorful bowl of laksa soup paired with steamed dumplings,130 php,20,Available
+Paotsin,Asian Chicken with Laksa,Juicy Asian-style chicken served with rich and spicy laksa broth,190 php,15,Available
+Paotsin,Crackling Pork with Laksa,Crispy crackling pork served in a hearty and aromatic laksa broth,190 php,12,Available
+Paotsin,Crispy Porkchop with Laksa,A crispy porkchop paired with a bold and spicy laksa broth,210 php,10,Available
+Paotsin,Hainanese Rice,Fragrant and fluffy rice cooked in a flavorful Hainanese-style broth,25 php,50,Available
+Paotsin,Lemak Rice,Creamy coconut-infused rice with a rich and slightly sweet taste,55 php,40,Available
+Summit,A&W Rootbeer,A refreshing root beer with a classic smooth and creamy taste,45 php,7,Available
+Summit,Big 250 Apple,A sweet and crisp apple-flavored juice drink,14 php,9,Available
+Summit,Big 250 Grapes,A juicy and flavorful grape drink perfect for any time of the day,14 php,38,Available
+Summit,Big 250 Mango,A tropical mango juice drink with a rich and refreshing taste,14 php,33,Available
+Summit,Big 250 Orange,A citrusy and tangy orange juice drink,14 php,28,Available
+Summit,BO's Coffee Hazelnut,A rich hazelnut-flavored coffee for a warm and energizing boost,62 php,23,Available
+Summit,BO's Coffee Macchiato,A bold and creamy macchiato coffee blend,62 php,20,Available
+Summit,BO's Coffee Mocha,A delightful mocha-flavored coffee drink,62 php,18,Available
+Summit,BO's Coffee Latte,A smooth and creamy latte coffee blend,62 php,14,Available
+Summit,Cobra Berry,A berry-flavored energy drink to keep you energized throughout the day,29 php,11,Available
+Summit,Cobra Regular,A classic energy drink for an instant boost,29 php,10,Available
+Summit,Cobra Smart,A smart energy drink packed with essential nutrients,29 php,8,Available
+Summit,Coke Light,A lighter version of Coca-Cola with reduced sugar,41 php,5,Available
+Summit,Coke Regular Mismo,A classic Coca-Cola drink in a convenient size,25 php,50,Available
+Summit,Coke Regular,A refreshing and fizzy cola drink loved by many,41 php,45,Available
+Summit,Coke Zero,A sugar-free version of the classic Coca-Cola,41 php,40,Available
+Summit,Lucky Day Kopiko,A coffee drink with a bold and rich Kopiko taste,30 php,35,Available
+Summit,Minute Maid Orange,A natural orange juice drink packed with vitamin C,30 php,30,Available
+Summit,Nestea Apple,A refreshing apple-flavored iced tea drink,38 php,25,Available
+Summit,Nestea Lemon Ice,A cool and tangy lemon-flavored iced tea,38 php,20,Available
+Summit,Nestea Lemon,A classic lemon iced tea drink,38 php,18,Available
+Summit,Oishi Choco Chug,A creamy and chocolatey milk drink,33 php,15,Available
+Summit,Oishi Oaties Milk,A nutritious milk drink with added oats,33 php,12,Available
+Summit,Pascual Chocolate Milk Drink,A rich and creamy chocolate milk drink,39 php,10,Available
+Summit,Pascual Drinkable Yogurt Mango,A tangy and smooth mango-flavored yogurt drink,45 php,8,Available
+Summit,Pascual Drinkable Yogurt Plain,A classic plain yogurt drink,45 php,5,Available
+Summit,Pascual Drinkable Yogurt Strawberry,A fruity and creamy strawberry yogurt drink,45 php,50,Available
+Summit,Real Leaf Fruity Apple,A refreshing apple-flavored tea drink,40 php,45,Available
+Summit,Real Leaf Fruity Ice,A chilled and refreshing iced tea,40 php,40,Available
+Summit,Real Leaf Fruity Lemon,A lemon-infused refreshing tea drink,40 php,35,Available
+Summit,Real Leaf Honey Lemon,A honey and lemon-flavored refreshing tea drink,41 php,30,Available
+Summit,Real Leaf Honey Lychee,A lychee-infused tea drink with honey sweetness,41 php,25,Available
+Summit,Royal Grape,A fizzy and fruity grape soda drink,25 php,20,Available
+Summit,Royal Orange,A carbonated orange-flavored soda,42 php,15,Available
+Summit,RTO Mismo,A ready-to-drink beverage with a refreshing taste,42 php,10,Available
+Summit,Smart C Juice Drink Lemon Squeeze,A citrusy lemon juice drink packed with vitamin C,42 php,8,Available
+Summit,Smart C Juice Drink Orange Crush,A zesty and refreshing orange juice drink,42 php,5,Available
+Summit,Smart C Juice Drink Pomelo Grapefruit,A tangy pomelo and grapefruit juice drink,42 php,50,Available
+Summit,Sprite Mismo,A fizzy and lemon-lime soda drink,25 php,45,Available
+Summit,Sprite Regular,A classic lemon-lime carbonated soda,41 php,40,Available
+Summit,Summit Mineral Water 350ml,Pure and refreshing mineral water,18 php,35,Available
+Summit,Summit Mineral Water 500ml,Clean and crisp mineral water for hydration,18 php,30,Available
+Summit,Sunkist Zero Apple,A zero-sugar apple-flavored juice drink,27 php,25,Available
+Summit,Sunkist Zero Yogurt,A yogurt-infused beverage with a light taste,27 php,20,Available
+Summit,Vitamilk Banana,A nutritious banana-flavored soy milk drink,36 php,15,Available
+Summit,Vitamilk Chocolate,A rich and chocolatey soy milk drink,36 php,12,Available
+Summit,Vitamilk Double Chocolate,A double chocolate-flavored soy milk drink,36 php,10,Available
+Summit,Vitamilk Soymilk,A classic and nutritious soy milk drink,36 php,8,Available
+Summit,Vitamilk Strawberry,A strawberry-flavored soy milk drink,36 php,5,Available
+Summit,Zesto Calamansi,A tangy calamansi-flavored juice drink,39 php,50,Available
+Summit,Zesto Dalandan,A citrusy dalandan-flavored juice drink,39 php,45,Available
+Summit,Zesto Rootbeer,A fizzy and flavorful root beer drink,39 php,40,Available
+Varda,Quarter Pounder Burger,Quarter Pounder Patty in Legit Varda Sauce,45 php,10,Available
+Varda,Terror Prof Burger,Quarter Pounder Patty in Famous BBQ Sauce,75 php,10,Available
+Varda,Dean's Burger,Quarter Pounder Patty in Melted Cheese and Chive Sauce,95 php,10,Available
+Varda,RK's Burger,Quarter Pounder Patty with Bacon in Legit Varda Sauce,110 php,10,Available
+Varda,Campus Crush Burger,Quarter Pounder Patty with Cheesy Mushroom,110 php,10,Available
+Varda,Lodi Burger (Single Patty),Quarter Pounder Patty in our signature Chili Sauce,95 php,10,Available
+Varda,Lodi Burger (Double Patty),Double Quarter Pounder Patty in our signature Chili Sauce,125 php,10,Available
+Varda,Varsity Burger,Double Quarter Pounder Patty,145 php,10,Available
+Varda,Midsayap Burger,Double Quarter Pounder Patty in Garlic Sauce,170 php,10,Available
+Varda,North Cot Challenge Burger,Triple Quarter Pounder Patty with Bacon,220 php,10,Available

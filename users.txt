@@ -1,0 +1,12 @@
+summit,pass,Summit,admin
+paotsin,pass,Paotsin,admin
+chefbabs,pass,Chef Bab's,admin
+angelspizza,pass,Angel's Pizza,admin
+whimsywhisk,pass,Whimsy Whisk,admin
+nescafe,pass,Nescafe,admin
+belgianwaffles,pass,Belgian Waffles,admin
+jamaican,pass,Jamaican Patty,admin
+varda,pass,Varda,admin
+julies,pass,Julie's Bakeshop,admin
+2023100354,pass,Martin L. Quing,student
+2023104358,pass123,Gabriel Troy C. Alfonso,student

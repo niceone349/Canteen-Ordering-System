@@ -1,0 +1,10 @@
+Summit,qr_images\AlamQR.jpg
+Paotsin,qr_images\AlamQR.jpg
+Chef Bab's,qr_images\QuingQR.jpg
+Angel's Pizza,qr_images\AlfonsoQR.jpg
+Whimsy Whisk,qr_images\ChanQR.jpg
+Nescafe,qr_images\AlfonsoQR.jpg
+Belgian Waffles,qr_images\AlamQR.jpg
+Jamaican Patty,qr_images\ChanQR.jpg
+Varda,qr_images\ChanQR.jpg
+Julie's Bakeshop,qr_images\QuingQR.jpg
